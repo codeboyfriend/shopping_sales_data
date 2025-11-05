@@ -14,7 +14,7 @@ This Sales Dashboard provides a clean, data-driven snapshot of e-commerce perfor
 - Average Rating from the customer 
 - Least 5 States by Sales
 
-## What I notice:
+## Insights:
 - Sales made during promotions is 40%+ of the total sales 
 - Sales accross all season are almost equal 
 - Clothing category made up of 44%+ of the total Sales 
